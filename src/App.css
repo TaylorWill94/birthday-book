@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -8,6 +10,7 @@
   .App {
     display: grid;
     grid-template-columns: 1fr;
+    font-family: "Roboto Mono", monospace;
   }
 
   .nav {
@@ -32,6 +35,8 @@
 
   .btn {
     padding: 10px;
+    border-radius: 12px;
+    font-family: "Roboto Mono", monospace;
   }
 
   .dinner {

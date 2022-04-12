@@ -4,13 +4,13 @@ function Home() {
       Choose your fit!
       <br />
       <br />
-      <button className="btn">Birthday Dinner Look</button>
+      <button className="btn">BIRTHDAY DINNER LOOK</button>
       <br />
       <br />
-      <button className="btn">Birthday Look</button>
+      <button className="btn">BIRTHDAY LOOK</button>
       <br />
       <br />
-      <button className="btn">Vacation Looks</button>
+      <button className="btn">VACATION LOOKS</button>
       <br />
       <br />
     </main>
