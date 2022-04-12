@@ -37,6 +37,11 @@
     padding: 10px;
     border-radius: 12px;
     font-family: "Roboto Mono", monospace;
+    transition-duration: 0.4s;
+  }
+
+  .btn:hover {
+    background-color: rgb(255, 255, 255);
   }
 
   .dinner {

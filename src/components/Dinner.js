@@ -1,6 +1,7 @@
 import gucci_suit from "../Images/Gucci-Jumpsuit.jpg";
 import dolce from "../Images/dolce.jpg";
 import area from "../Images/area-dress.jpg";
+import ysl from "../Images/ysl-heels.jpg";
 
 function Dinner() {
   return (
@@ -76,6 +77,24 @@ function Dinner() {
           <br />
           <a
             href="https://www.farfetch.com/shopping/women/area-crystal-embellished-mini-dress-item-17266847.aspx?storeid=13537"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+          <p>ysl heels</p>
+          <a
+            href="https://www.saksfifthavenue.com/product/saint-laurent-opyum-leather-sandals-0400099522701.html?dwvar_0400099522701_color=BLACK"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={ysl} alt="ysl-heels" width="200" />
+          </a>
+          <br />
+          <a
+            href="https://www.saksfifthavenue.com/product/saint-laurent-opyum-leather-sandals-0400099522701.html?dwvar_0400099522701_color=BLACK"
             target="_blank"
             rel="noreferrer"
           >
