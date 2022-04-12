@@ -6,6 +6,8 @@ import laquan from "../Images/laquan.jpg";
 import dolce_gabbana from "../Images/dolce_gabbana.jpg";
 import gucci from "../Images/gucci-bra.webp";
 import alexander from "../Images/alexander-wang-trousers.webp";
+import bra from "../Images/gucci-black-bra copy.jpg";
+import mugler from "../Images/mugler-pants.webp";
 
 function Dinner() {
   return (
@@ -191,6 +193,53 @@ function Dinner() {
           <br />
           <a
             href="https://www.ssense.com/en-us/women/product/alexander-wang/black-polyester-trousers/9374741"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+        </div>
+        <br />
+        <div className="column">
+          <br />
+          LOOK 05
+          <br />
+          <br />
+          <p>gucci lace bra</p>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/gucci/black-gg-embroidered-tulle-bra/9421761"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={bra} alt="gucci-lace-bra" width="200" />
+          </a>
+          <br />
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/gucci/black-gg-embroidered-tulle-bra/9421761"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+          <p>mugler jeans</p>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/mugler/blue-spiral-jeans/9125821"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={mugler} alt="mugler-jeans" width="250" />
+          </a>
+          <br />
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/mugler/blue-spiral-jeans/9125821"
             target="_blank"
             rel="noreferrer"
           >
