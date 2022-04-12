@@ -8,6 +8,8 @@ import gucci from "../Images/gucci-bra.webp";
 import alexander from "../Images/alexander-wang-trousers.webp";
 import bra from "../Images/gucci-black-bra copy.jpg";
 import mugler from "../Images/mugler-pants.webp";
+import mesh from "../Images/mesh-dress.jpg";
+import gia from "../Images/gaunlett-heels.jpg";
 
 function Dinner() {
   return (
@@ -240,6 +242,56 @@ function Dinner() {
           <br />
           <a
             href="https://www.ssense.com/en-us/women/product/mugler/blue-spiral-jeans/9125821"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+        </div>
+        <br />
+        <div className="column">
+          <br />
+          LOOK 06
+          <br />
+          <br />
+          <p>gucci jumpsuit</p>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/gauntlett-cheng/brown-polyester-mini-dress/9825471"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={mesh} alt="gauntlett-cheng-dress" width="150" />
+          </a>
+          <br />
+          {/* <a
+            href="https://www.gucci.com/us/en/pr/women/ready-to-wear-for-women/dresses-for-women/jumpsuits-for-women/faille-jumpsuit-with-g-buckle-belt-p-674467Z8AUI1000"
+            target="_blank"
+            ref="noreferrer"
+          ></a> */}
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/gauntlett-cheng/brown-polyester-mini-dress/9825471"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+          <p>gia sandlas</p>
+          <a
+            href="https://www.saksfifthavenue.com/product/gia-borghini-leather-strappy-sandals-0400015709099.html?dwvar_0400015709099_color=COFFEE%20BROWN"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={gia} alt="dolce-gabbana-heels" width="200" />
+          </a>
+          <br />
+          <a
+            href="https://www.saksfifthavenue.com/product/gia-borghini-leather-strappy-sandals-0400015709099.html?dwvar_0400015709099_color=COFFEE%20BROWN"
             target="_blank"
             rel="noreferrer"
           >
