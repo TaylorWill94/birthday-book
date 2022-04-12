@@ -3,6 +3,8 @@ import bottega from "../Images/bottega-veneta-heels.jpg";
 import alexander from "../Images/alexander-wang-halter.jpg";
 import skirt from "../Images/leather-skirt.webp";
 import givenchy from "../Images/givenchy-heels.webp";
+import balenciaga from "../Images/balenciaga.webp";
+import area from "../Images/area.webp";
 
 function Vacation() {
   return (
@@ -125,6 +127,58 @@ function Vacation() {
           <br />
           <a
             href="https://www.ssense.com/en-us/women/product/givenchy/black-triple-toes-horn-heeled-sandals/7174281"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+        </div>
+        <br />
+        <div className="column">
+          <br />
+          LOOK 03
+          <br />
+          <br />
+          <p>balenciaga t-shirt</p>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/balenciaga/red-logo-t-shirt/8249661"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={balenciaga} alt="balenciaga t-shirt" width="250" />
+          </a>
+          <br />
+          {/* <a
+            href="https://www.gucci.com/us/en/pr/women/ready-to-wear-for-women/dresses-for-women/jumpsuits-for-women/faille-jumpsuit-with-g-buckle-belt-p-674467Z8AUI1000"
+            target="_blank"
+            ref="noreferrer"
+          ></a> */}
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/balenciaga/red-logo-t-shirt/8249661"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+          <p>area shorts</p>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/area/blue-butterfly-shorts/9540511"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={area} alt="area-shorts" width="200" />
+          </a>
+          <br />
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/area/blue-butterfly-shorts/9540511"
             target="_blank"
             rel="noreferrer"
           >

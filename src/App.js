@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import Nav from "./components/Nav";
 import Vacation from "./components/Vacation";
 import Footer from "./components/Footer";
+import Outfits from "./components/Outfits";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/dinner" element={<Dinner />} />
         <Route path="/vacation" element={<Vacation />} />
+        <Route path="/outfits" element={<Outfits />} />
       </Routes>
       <Footer />
     </div>
