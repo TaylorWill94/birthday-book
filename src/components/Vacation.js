@@ -1,5 +1,7 @@
 import stella from "../Images/white-dress-stella.webp";
 import bottega from "../Images/bottega-veneta-heels.jpg";
+import alexander from "../Images/alexander-wang-halter.jpg";
+import skirt from "../Images/leather-skirt.webp";
 
 function Vacation() {
   return (
@@ -48,6 +50,57 @@ function Vacation() {
           <br />
           <a
             href="https://www.saksfifthavenue.com/product/bottega-veneta-crochet-pinwheel-sandals-0400015482271.html?dwvar_0400015482271_color=KIWI"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+        </div>
+        <div className="column">
+          <br />
+          LOOK 02
+          <br />
+          <br />
+          <p>alexander wang halter top</p>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/alexander-wang/silver-cowl-crop-halter-top/8573631"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={alexander} alt="alexander-wang-halter-top" width="250" />
+          </a>
+          <br />
+          {/* <a
+            href="https://www.gucci.com/us/en/pr/women/ready-to-wear-for-women/dresses-for-women/jumpsuits-for-women/faille-jumpsuit-with-g-buckle-belt-p-674467Z8AUI1000"
+            target="_blank"
+            ref="noreferrer"
+          ></a> */}
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/alexander-wang/silver-cowl-crop-halter-top/8573631"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+          <p>aleksandre akhalkatsishvili skirt</p>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/aleksandre-akhalkatsishvili/black-faux-leather-mini-skirt/9769951"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={skirt} alt="black-leather-skirt" width="200" />
+            <br />
+          </a>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/aleksandre-akhalkatsishvili/black-faux-leather-mini-skirt/9769951"
             target="_blank"
             rel="noreferrer"
           >
