@@ -4,6 +4,8 @@ import area from "../Images/area-dress.jpg";
 import ysl from "../Images/ysl-heels.jpg";
 import laquan from "../Images/laquan.jpg";
 import dolce_gabbana from "../Images/dolce_gabbana.jpg";
+import gucci from "../Images/gucci-bra.webp";
+import alexander from "../Images/alexander-wang-trousers.webp";
 
 function Dinner() {
   return (
@@ -142,6 +144,53 @@ function Dinner() {
           <br />
           <a
             href="https://www.saksfifthavenue.com/product/dolce-gabbana-sculpted-heel-patent-leather-sandals-0400012630540.html?dwvar_0400012630540_color=NERO"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+        </div>
+        <br />
+        <div className="column">
+          <br />
+          LOOK 04
+          <br />
+          <br />
+          <p>gucci satin bra</p>
+          <br />
+          <a
+            href="https://www.gucci.com/us/en/pr/women/ready-to-wear-for-women/tops-shirts-for-women/tops-for-women/gg-embroidered-silk-top-p-681155ZAIDC7278"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={gucci} alt="gucci-bra" width="200" />
+          </a>
+          <br />
+          <br />
+          <a
+            href="https://www.gucci.com/us/en/pr/women/ready-to-wear-for-women/tops-shirts-for-women/tops-for-women/gg-embroidered-silk-top-p-681155ZAIDC7278"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+          <p>alexander wang trousers</p>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/alexander-wang/black-polyester-trousers/9374741"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={alexander} alt="alexander-wang-trousers" width="150" />
+          </a>
+          <br />
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/alexander-wang/black-polyester-trousers/9374741"
             target="_blank"
             rel="noreferrer"
           >
