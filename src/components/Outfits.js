@@ -4,6 +4,7 @@ import gucci from "../Images/gucci-trousers.webp";
 function Outfits() {
   return (
     <div className="outfits">
+      Birthday Outfits
       <section className="outfit-sec">
         <br />
         <div className="column">
