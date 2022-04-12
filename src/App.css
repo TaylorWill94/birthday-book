@@ -30,13 +30,34 @@
     text-align: center;
   }
 
+  .btn {
+    padding: 10px;
+  }
+
   .dinner {
     padding-top: 10px;
     text-align: center;
   }
 
+  .column {
+    margin: 25px;
+    border: 1px solid black;
+  }
+
+  .purchase {
+    padding: 10px;
+    border-radius: 12px;
+  }
+
   .vacation {
     padding-top: 10px;
     text-align: center;
+  }
+
+  .footer {
+    text-align: center;
+    background-color: pink;
+    padding: 10px;
+    color: white;
   }
 }

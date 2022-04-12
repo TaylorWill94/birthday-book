@@ -4,6 +4,7 @@ import Dinner from "./components/Dinner";
 import Home from "./components/Home";
 import Nav from "./components/Nav";
 import Vacation from "./components/Vacation";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/dinner" element={<Dinner />} />
         <Route path="/vacation" element={<Vacation />} />
       </Routes>
+      <Footer />
     </div>
   );
 }
