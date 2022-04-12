@@ -2,6 +2,7 @@ import stella from "../Images/white-dress-stella.webp";
 import bottega from "../Images/bottega-veneta-heels.jpg";
 import alexander from "../Images/alexander-wang-halter.jpg";
 import skirt from "../Images/leather-skirt.webp";
+import givenchy from "../Images/givenchy-heels.webp";
 
 function Vacation() {
   return (
@@ -88,7 +89,8 @@ function Vacation() {
           </a>
           <br />
           <br />
-          <p>aleksandre akhalkatsishvili skirt</p>
+          <p>aleksandre akhalkatsishvili</p>
+          <p>skirt</p>
           <br />
           <a
             href="https://www.ssense.com/en-us/women/product/aleksandre-akhalkatsishvili/black-faux-leather-mini-skirt/9769951"
@@ -101,6 +103,28 @@ function Vacation() {
           <br />
           <a
             href="https://www.ssense.com/en-us/women/product/aleksandre-akhalkatsishvili/black-faux-leather-mini-skirt/9769951"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+          <br />
+          <br />
+          <p>givenchy heels</p>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/givenchy/black-triple-toes-horn-heeled-sandals/7174281"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={givenchy} alt="givenchy-heels" width="200" />
+            <br />
+          </a>
+          <br />
+          <a
+            href="https://www.ssense.com/en-us/women/product/givenchy/black-triple-toes-horn-heeled-sandals/7174281"
             target="_blank"
             rel="noreferrer"
           >
