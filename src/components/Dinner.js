@@ -1,5 +1,6 @@
 import gucci_suit from "../Images/Gucci-Jumpsuit.jpg";
 import dolce from "../Images/dolce.jpg";
+import area from "../Images/area-dress.jpg";
 
 function Dinner() {
   return (
@@ -48,6 +49,33 @@ function Dinner() {
           <br />
           <a
             href="https://www.saksfifthavenue.com/product/dolce-gabbana-sculpted-heel-metallic-leather-sandals-0400013535394.html?dwvar_0400013535394_color=GOLD"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+        </div>
+        <br />
+        <div className="column">
+          <br />
+          LOOK 02
+          <br />
+          <br />
+          <p>area crystal dress</p>
+          <br />
+          <a
+            href="https://www.farfetch.com/shopping/women/area-crystal-embellished-mini-dress-item-17266847.aspx?storeid=13537"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={area} alt="area-dress" width="200" />
+          </a>
+          <br />
+          <br />
+          <a
+            href="https://www.farfetch.com/shopping/women/area-crystal-embellished-mini-dress-item-17266847.aspx?storeid=13537"
             target="_blank"
             rel="noreferrer"
           >
