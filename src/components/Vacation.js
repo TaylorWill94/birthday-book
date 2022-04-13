@@ -9,6 +9,7 @@ import golden from "../Images/golden.webp";
 import burberry from "../Images/burberry.webp";
 import rj from "../Images/rjswim.webp";
 import isa from "../Images/isa.webp";
+import chanel from "../Images/chanel.webp";
 
 function Vacation() {
   return (
@@ -282,6 +283,24 @@ function Vacation() {
           <br />
           <a
             href="https://www.ssense.com/en-us/women/product/isa-boulder/ssense-exclusive-pink-heart-bikini-set/8849441"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+          <a
+            href="https://www.chanel.com/us/fashion/p/G38933X56443K3919/mules-lambskin/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={chanel} alt="chanel-slides" width="250" />
+          </a>
+          <br />
+          <br />
+          <a
+            href="https://www.chanel.com/us/fashion/p/G38933X56443K3919/mules-lambskin/"
             target="_blank"
             rel="noreferrer"
           >
