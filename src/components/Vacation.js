@@ -148,6 +148,8 @@ function Vacation() {
           <br />
           <p>balenciaga t-shirt</p>
           <br />
+          <p>Tie this shirt up for a sportier/sexier look!</p>
+          <br />
           <a
             href="https://www.ssense.com/en-us/women/product/balenciaga/red-logo-t-shirt/8249661"
             target="_blank"

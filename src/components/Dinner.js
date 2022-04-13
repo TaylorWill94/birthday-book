@@ -260,7 +260,13 @@ function Dinner() {
           </a>
           <br />
           <br />
-          <button className="purchase">PURCHASE</button>
+          <a
+            href="https://www.farfetch.com/shopping/women/versace-safety-pin-130mm-sandals-item-18152917.aspx?storeid=9462"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
           <br />
           <br />
         </div>
