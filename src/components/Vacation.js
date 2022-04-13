@@ -203,7 +203,7 @@ function Vacation() {
           <a
             href="https://www.ssense.com/en-us/women/product/golden-goose/white-and-grey-super-star-classic-sneakers/8343011"
             target="_blank"
-            rel="norefferer"
+            rel="noreferrer"
           >
             <button className="purchase">PURCHASE</button>
           </a>
