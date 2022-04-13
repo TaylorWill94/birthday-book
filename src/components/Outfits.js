@@ -5,6 +5,7 @@ import louie from "../Images/louie.webp";
 import sandals from "../Images/sandals.webp";
 import nensi from "../Images/nensi.webp";
 import furry from "../Images/furry.webp";
+import marine from "../Images/marine.webp";
 
 function Outfits() {
   return (
@@ -150,28 +151,29 @@ function Outfits() {
           </a>
           <br />
           <br />
-          <p>gucci trousers</p>
+          <p>marine serre</p>
           <br />
           <br />
           <a
-            href="https://www.ssense.com/en-us/women/product/gucci/brown-gg-canvas-trousers/9421431"
+            href="https://www.farfetch.com/shopping/women/marine-serre-crescent-moon-print-leather-trousers-item-18023610.aspx?storeid=9359"
             target="_blank"
             rel="noreferrer"
           >
-            <img src={gucci} alt="gucci-trousrs" width="250" />
+            <img src={marine} alt="marine-serre" width="250" />
           </a>
           <br />
           <br />
-          <p>black lulu sandals</p>
-          <br />
           <br />
           <a
-            href="https://www.ssense.com/en-us/women/product/gucci/brown-gg-canvas-trousers/9421431"
+            href="https://www.farfetch.com/shopping/women/marine-serre-crescent-moon-print-leather-trousers-item-18023610.aspx?storeid=9359"
             target="_blank"
             rel="noreferrer"
           >
             <button className="purchase">PURCHASE</button>
           </a>
+          <br />
+          <br />
+          <p>alexander wang</p>
           <br />
           <br />
           <a
