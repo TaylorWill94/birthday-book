@@ -6,6 +6,8 @@ import sandals from "../Images/sandals.webp";
 import nensi from "../Images/nensi.webp";
 import furry from "../Images/furry.webp";
 import marine from "../Images/marine.webp";
+import naked from "../Images/naked.jpeg";
+import dolcee from "../Images/dolcee.webp";
 
 function Outfits() {
   return (
@@ -186,6 +188,55 @@ function Outfits() {
           <br />
           <a
             href="https://www.ssense.com/en-us/women/product/alexander-wang/black-lulu-sandals/8576561"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+        </div>
+        <br />
+        <div className="column">
+          <br />
+          LOOK 04
+          <br />
+          <br />
+          <p>naked wadrobe</p>
+          <br />
+          <a
+            href="https://www.nakedwardrobe.com/womens/sets/knot-stickin-around-legging-set-22295.html"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={naked} alt="naked-wadrobe" width="250" />
+          </a>
+          <br />
+          <br />
+          <a
+            href="https://www.nakedwardrobe.com/womens/sets/knot-stickin-around-legging-set-22295.html"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="purchase">PURCHASE</button>
+          </a>
+          <br />
+          <br />
+          <p>dolce & gabbana heels</p>
+          <br />
+          <br />
+          <a
+            href="https://www.farfetch.com/shopping/women/dolce-gabbana-dg-pop-keira-105mm-sandals-item-16588459.aspx?storeid=13097"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={dolcee} alt="dolce-gabbana" width="250" />
+          </a>
+          <br />
+          <br />
+          <br />
+          <a
+            href="https://www.farfetch.com/shopping/women/dolce-gabbana-dg-pop-keira-105mm-sandals-item-16588459.aspx?storeid=13097"
             target="_blank"
             rel="noreferrer"
           >

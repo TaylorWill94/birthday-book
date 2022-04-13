@@ -7,6 +7,8 @@ function Home() {
       <br />
       <br />
       <br />
+      <br />
+      <br />
       <Link to="/dinner">
         <button className="btn">birthday dinner looks</button>
       </Link>
