@@ -83,6 +83,10 @@
     padding: 10px;
     color: white;
   }
+
+  .heart {
+    padding-top: 15px;
+  }
 }
 
 @media screen and (min-width: 641px) and (max-width: 725px) {
