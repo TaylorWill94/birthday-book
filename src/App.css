@@ -94,6 +94,7 @@
     display: grid;
     grid-template-columns: 1fr;
     font-family: "Roboto Mono", monospace;
+    height: 100vh;
   }
 
   a {
@@ -172,6 +173,7 @@
     display: grid;
     grid-template-columns: 1fr;
     font-family: "Roboto Mono", monospace;
+    height: 100vh;
   }
 
   a {
@@ -250,6 +252,7 @@
     display: grid;
     grid-template-columns: 1fr;
     font-family: "Roboto Mono", monospace;
+    height: 100vh;
   }
 
   a {
