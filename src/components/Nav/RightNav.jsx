@@ -23,6 +23,7 @@ const Ul = styled.ul`
     li {
       color: #fff;
       font-weight: bold;
+      text-align: center;
     }
   }
 `;
