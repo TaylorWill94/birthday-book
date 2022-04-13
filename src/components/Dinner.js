@@ -10,6 +10,7 @@ import bra from "../Images/gucci-black-bra copy.jpg";
 import mugler from "../Images/mugler-pants.webp";
 import mesh from "../Images/mesh-dress.jpg";
 import gia from "../Images/gaunlett-heels.jpg";
+import versace from "../Images/versace.webp";
 
 function Dinner() {
   return (
@@ -247,6 +248,19 @@ function Dinner() {
           >
             <button className="purchase">PURCHASE</button>
           </a>
+          <br />
+          <br />
+          <p>versace sandals</p>
+          <a
+            href="https://www.farfetch.com/shopping/women/versace-safety-pin-130mm-sandals-item-18152917.aspx?storeid=9462"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={versace} alt="versace-heels" width="200" />
+          </a>
+          <br />
+          <br />
+          <button className="purchase">PURCHASE</button>
           <br />
           <br />
         </div>
