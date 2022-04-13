@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import Burger from "./Burger";
+import { Link } from "react-router-dom";
 
 const Nav = styled.nav`
   width: 100%;
@@ -16,7 +17,9 @@ const Nav = styled.nav`
 function NavBar() {
   return (
     <Nav>
-      <div className="logo">BriDay</div>
+      <div className="logo">
+        <Link to="/">BriDay</Link>
+      </div>
       <Burger />
     </Nav>
   );
