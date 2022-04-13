@@ -62,7 +62,7 @@ function Outfits() {
           <a
             href="https://www.ssense.com/en-us/women/product/balenciaga/black-fetish-heeled-sandals/8245331"
             target="_blank"
-            rel="'noreferrer"
+            rel="noreferrer"
           >
             <img src={sandals} alt="balenciaga-sandals" width="200" />
           </a>
@@ -179,7 +179,7 @@ function Outfits() {
           <a
             href="https://www.ssense.com/en-us/women/product/alexander-wang/black-lulu-sandals/8576561"
             target="_blank"
-            rel="'noreferrer"
+            rel="noreferrer"
           >
             <img src={furry} alt="balenciaga-sandals" width="200" />
           </a>
